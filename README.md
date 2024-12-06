@@ -11,6 +11,8 @@
 의료 취약 계층을 위한 원격 의료 서비스 개발
 
 ### :hospital: 우리 집안의 작은 맞춤형 병원, Housepital :ambulance:
+![20240503095448_dbsbcqcr](https://github.com/user-attachments/assets/071b8b60-a2ab-4ae0-b44b-9b2cc261651f)
+
 
 
 </br>
